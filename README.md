@@ -22,26 +22,23 @@ Python implementation using NumPy, Pandas, and Matplotlib
 Fully reproducible in Google Colab or any Jupyter environment
 
 🔧 Technologies Used
+
 Python 3
-
 NumPy
-
 Pandas
-
 Matplotlib
-
 Jupyter Notebook / Google Colab
 
 📂 File Structure
-bash
-Copiar
-Editar
+
 Monte-Carlo-Simulation-solving-Optimización-Problem/
 │
 ├── Monte Carlo Simulation and Brute Force.ipynb   # Main notebook
 ├── README.md                                      # Project documentation
 └── requirements.txt                               # Python dependencies (optional)
+
 🚀 How to Run
+
 Clone the repository or upload the notebook to Google Colab.
 
 Run all cells sequentially.
