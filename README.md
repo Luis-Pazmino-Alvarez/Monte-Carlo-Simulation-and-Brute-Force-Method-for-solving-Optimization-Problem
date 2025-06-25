@@ -29,14 +29,6 @@ Pandas
 Matplotlib
 Jupyter Notebook / Google Colab
 
-📂 File Structure
-
-Monte-Carlo-Simulation-solving-Optimización-Problem/
-│
-├── Monte Carlo Simulation and Brute Force.ipynb   # Main notebook
-├── README.md                                      # Project documentation
-└── requirements.txt                               # Python dependencies (optional)
-
 🚀 How to Run
 
 Clone the repository or upload the notebook to Google Colab.
